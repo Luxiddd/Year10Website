@@ -5,9 +5,10 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: Comfortaa, sans-serif;
+    font-family: Caveat, sans-serif;
     box-sizing: border-box;
 }
+
 
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
@@ -77,4 +78,12 @@ img {
     color: white;
     text-align: right;
     padding: 3em 3em;
+}
+
+
+.caveat-signature {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
